@@ -1,0 +1,2 @@
+- see if `UI.list'` has the behavior of a react component, that is, see if it re-render only when his props changes
+- check the result on the js output when using `[<Erase>]` on some types
